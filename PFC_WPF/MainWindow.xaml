@@ -1,0 +1,11 @@
+﻿<Window x:Class="PFC_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PFC V0.1" Height="350" Width="525" Background="#FF07738B">
+    <Grid Background="#FF930C0C">
+        <Button  x:Name="BtnPlay" Content="Jouer" HorizontalAlignment="Left" VerticalAlignment="Top" Width="157" Margin="169,119,0,0" Height="35" Click="BtnPlay_Click"/>
+        <Button Content="Quitter" HorizontalAlignment="Left" VerticalAlignment="Top" Width="157" Margin="169,174,0,0" Height="35" Click="Button_Click"/>
+        <Label Content="PFC " HorizontalAlignment="Left" Margin="212,10,0,0" VerticalAlignment="Top" FontSize="36"/>
+
+    </Grid>
+</Window>
