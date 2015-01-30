@@ -73,7 +73,7 @@
             <BeginStoryboard x:Name="IaAsset1_BeginStoryboard" Storyboard="{StaticResource IaAsset1}"/>
         </EventTrigger>
     </Window.Triggers>
-    <Grid Background="#FF769EBB">
+    <Grid Background="#FF0069B5">
         <VisualStateManager.VisualStateGroups>
             <VisualStateGroup x:Name="VisualStateGroup"/>
         </VisualStateManager.VisualStateGroups>
